@@ -55,12 +55,12 @@ Supports Firebase Google and Facebook login, Stripe payment integration, API-bas
 
 ### 🔐 Login Screen
 ![Login](screenshots/login.jpg)
-<img src="screenshots/login.png" width="100">
+<img src="screenshots/login.jpg" width="300">
 
 ### 🛒 Product Grid
 ![Products](screenshots/products.jpg)
-<img src="screenshots/products.png" width="100">
+<img src="screenshots/products.jpg" width="300">
 
 ### 💳 Stripe Payment Sheet
 ![Payment](screenshots/payment.jpg)
-<img src="screenshots/payment.png" width="100">
+<img src="screenshots/payment.jpg" width="300">
