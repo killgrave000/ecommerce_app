@@ -38,7 +38,7 @@ Supports Firebase Google and Facebook login, Stripe payment integration, API-bas
 ### 🔧 Prerequisites
 
 - Flutter SDK (latest stable)
-- Firebase project with Google and Facebook sign-in enabled
+- Firebase project with Google sign-in enabled
 - Stripe account with test keys
 - Android/iOS device or emulator
 
@@ -55,9 +55,12 @@ Supports Firebase Google and Facebook login, Stripe payment integration, API-bas
 
 ### 🔐 Login Screen
 ![Login](screenshots/login.jpg)
+<img src="screenshots/login.png" width="100">
 
 ### 🛒 Product Grid
 ![Products](screenshots/products.jpg)
+<img src="screenshots/products.png" width="100">
 
 ### 💳 Stripe Payment Sheet
 ![Payment](screenshots/payment.jpg)
+<img src="screenshots/payment.png" width="100">
